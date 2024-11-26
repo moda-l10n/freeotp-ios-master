@@ -26,3 +26,6 @@ You need to have [Carthage](https://github.com/Carthage/Carthage) installed for 
 
     brew install carthage
     carthage update --use-xcframeworks --platform iOS
+
+## 軟體中文化
+本專案為數位部開放原始碼軟體中文化專案項目之一，其中文化與專案應用可參考 Wiki。
